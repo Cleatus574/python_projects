@@ -20,7 +20,7 @@ hmda = data[
     ]
 ]
 # print(hmda)
-print(hmda.head())
+print(hmda.columns)
 # return the standard deviation of loan amounts
 # stdev = hmda['loan_amount_000s'].std()
 # print(stdev)
