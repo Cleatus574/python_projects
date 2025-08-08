@@ -1,0 +1,6 @@
+data/
+Automate The Boring Stuff Data/
+tests/
+coding_class_docs/
+*.xlsx
+*.code-workspace
